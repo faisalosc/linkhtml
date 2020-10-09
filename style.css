@@ -1,0 +1,31 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+table, tr, td{
+    border: 1px solid black;
+}
+tr.heading{
+    text-align: center;
+    color: gray;
+}
+td.daftar-isi{
+    text-align: center;
+}
+tr.subheading{
+    text-align: center;
+    color: gray;
+}
+tr.isi{
+    text-align: center;
+    color: gray;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+td.linkmatkul{
+    text-align: left;
+}
+td.dosen{
+    text-align: left;
+}
